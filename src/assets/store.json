@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productName": "HP",
+      "Category": "Laptop",
+      "Price": "38000",
+      "Supplier": "HP",
+      "descripition": "16 GB RAM,256 GB SSD",
+      "quantity": 10,
+      "instock": true,
+      "id": "prod02"
+    },
+    {
+      "productName": "S546",
+      "Category": "Phone",
+      "Price": "20089",
+      "Supplier": "Samsung pvt ltd",
+      "descripition": "50 GB",
+      "quantity": "6",
+      "instock": true,
+      "id": "a222"
+    }
+  ]
+}
